@@ -53,7 +53,3 @@ Perform EDA on the Titanic dataset to understand patterns, distributions, correl
 
 ---
 
-## 📝 Submission
-This task is part of the **AI & ML Internship**  
-**Task 2: Exploratory Data Analysis (EDA)**  
-
